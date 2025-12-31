@@ -1,0 +1,8 @@
+{
+  "name": "ELDEX TUNER",
+  "description": "A professional-grade guitar tuner application with real-time pitch detection and high-precision visual feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
